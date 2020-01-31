@@ -41,29 +41,25 @@ __Directions, parking and a full list of local hotel information__ can be found 
 ## Hotels located closest to SDSC and campus:
 
 ### Estancia La Jolla Hotel and Spa (located directly west of SDSC within a 5 min. walk)
-9700 N. Torrey Pines Road
-
-La Jolla CA 92037
-
-(858) 550-1000 	
+> 9700 N. Torrey Pines Road
+> La Jolla CA 92037
+> (858) 550-1000 	
 
 ### Hilton La Jolla Torrey Pines
-10950 N. Torrey Pines Rd.
-
-La Jolla, CA 92037
-
-(858) 558-1500 	
+> 10950 N. Torrey Pines Rd.
+> La Jolla, CA 92037
+> (858) 558-1500 	
 
 ### The Lodge at Torrey Pines
-11480 North Torrey Pines Rd.
-La Jolla CA 92037
-(858) 453-4420 	
+> 11480 North Torrey Pines Rd.
+> La Jolla CA 92037
+> (858) 453-4420 	
 
 ### The Residence Inn San Diego/La Jolla
-8901 Gilman Dr.
-La Jolla, CA 92037
-(858) 587-1770
-(800) 331-3131 
+> 8901 Gilman Dr.
+> La Jolla, CA 92037
+> (858) 587-1770
+> (800) 331-3131 
 
 ### Sheraton La Jolla Hotel
 > 3299 Holiday Ct. 
