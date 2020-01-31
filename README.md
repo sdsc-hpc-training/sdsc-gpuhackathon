@@ -22,11 +22,11 @@ The SDSC GPU hackathon is interested in teams who are working with “long-tail�
 ## Participant Costs
 There is no registration fee to attend the event. Breakfast, lunch, coffee and snacks will be provided during the hackathon. Participants are responsible for all other expenses, including their transportation to and from the event, lodgings and other meals. Participants will also be expected to arrive with a laptop that is capable of wireless internet to work on for the duration of the event.
 
-## Acceptance Notification
+## Acceptance Timeline and Notification
 
-## Applications Deadline: March 11, 2020 
-## Accepted applicants will be notified by: March 25, 2020
-## Accepted teams should:
+### Applications Deadline: March 11, 2020 
+### Accepted applicants will be notified by: March 25, 2020
+### Accepted teams should:
     * Register all team members for the event.
     * Review the attendee guide.
     * Mentor introductions and computational resource access instructions will be forthcoming.
@@ -37,7 +37,8 @@ San Diego Supercomputer Center (SDSC) on the campus of UC San Diego
 Location: SDSC Auditorium EB212 - located on the ground level just off the driveway and north of the Hopkins Parking Structure.
 
 __Directions, parking and a full list of local hotel information__ can be found on the SDSC Visitor Information page.  When making hotel reservations it is recommended to call hotel directly to ask for a “UCSD rate”.  
-Hotels located closest to SDSC and campus:
+
+## Hotels located closest to SDSC and campus:
 
 Estancia La Jolla Hotel and Spa (located directly west of SDSC within a 5 min. walk)
 9700 N. Torrey Pines Road
