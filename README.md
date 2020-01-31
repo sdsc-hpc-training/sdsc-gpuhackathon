@@ -55,19 +55,19 @@ The Lodge at Torrey Pines
 La Jolla CA 92037
 (858) 453-4420 	
 
-The Residence Inn San Diego/La Jolla
-8901 Gilman Dr.
-La Jolla, CA 92037
-(858) 587-1770
-(800) 331-3131 
+### The Residence Inn San Diego/La Jolla
+:  8901 Gilman Dr.
+:  La Jolla, CA 92037
+:  (858) 587-1770
+:  (800) 331-3131 
 
-Sheraton La Jolla Hotel
-3299 Holiday Ct.
-La Jolla, CA 92037
-(858) 453-5500
-(866) 500-0335 (UCSD dedicated #) 	
+### Sheraton La Jolla Hotel
+:  3299 Holiday Ct.
+:  La Jolla, CA 92037
+:  (858) 453-5500
+:  (866) 500-0335 (UCSD dedicated #) 	
 
-Questions?
+## Questions?
 You may submit any questions about the SDSC GPU Hackathon to: events@sdsc.edu
 
 
